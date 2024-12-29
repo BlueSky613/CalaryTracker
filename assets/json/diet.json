@@ -1,0 +1,346 @@
+{
+  "foods": [
+    {
+      "veg": [
+    {
+      "name": "Brown Rice",
+      "preference": "veg",
+      "image": "https://www.pressurecookrecipes.com/wp-content/uploads/2022/07/instant-pot-brown-basmati-rice.jpg",
+      "calories": 216,
+      "serving_size": "1 cup cooked (195 g)",
+      "macronutrients": {
+        "protein": "5",
+        "fat": "1.8",
+        "carbohydrates": "45"
+      }
+    },
+    {
+      "name": "Quinoa",
+      "preference": "veg",
+      "image": "https://www.simplyquinoa.com/wp-content/uploads/2017/03/5-Ingredient-Garlic-Butter-Quinoa-4-1.jpg",
+      "calories": 222,
+      "serving_size": "1 cup cooked (185 g)",
+      "macronutrients": {
+        "protein": "8",
+        "fat": "4",
+        "carbohydrates": "39"
+      }
+    },
+    {
+      "name": "Sweet Potato",
+      "preference": "veg",
+      "image": "https://cdn.media.amplience.net/i/japancentre/recipe-1342-japanese-double-baked-sweet-potato/Japanese-double-baked-sweet-potato?$poi$&w=700&h=410&sm=c&fmt=auto",
+      "calories": 112,
+      "serving_size": "1 medium potato (114 g)",
+      "macronutrients": {
+        "protein": "2",
+        "fat": "0",
+        "carbohydrates": "27"
+      }
+    },
+    {
+      "name": "Broccoli",
+      "preference": "veg",
+      "image": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FEdit%2F2022-11-Steamed-Broccoli%2Fsteamed-broccoli-2",
+      "calories": 55,
+      "serving_size": "1 cup chopped (91 g)",
+      "macronutrients": {
+        "protein": "3",
+        "fat": "0.6",
+        "carbohydrates": "11"
+      }
+    },
+    {
+      "name": "Spinach",
+      "preference": "veg",
+      "image": "https://cdn.britannica.com/30/82530-050-79911DD4/Spinach-leaves-vitamins-source-person.jpg",
+      "calories": 7,
+      "serving_size": "1 cup raw (30 g)",
+      "macronutrients": {
+        "protein": "1",
+        "fat": "0",
+        "carbohydrates": "1"
+      }
+    },
+    {
+      "name": "Kale",
+      "preference": "veg",
+      "image": "https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/benefits-of-kale-1296x728-feature.jpg?w=1155&h=1528",
+      "calories": 33,
+      "serving_size": "1 cup chopped (67 g)",
+      "macronutrients": {
+        "protein": "3",
+        "fat": "0.5",
+        "carbohydrates": "6"
+      }
+    },
+    {
+      "name": "Cauliflower",
+      "preference": "veg",
+      "image": "https://m.media-amazon.com/images/I/91EdPVzD99L._SX466_.jpg",
+      "calories": 27,
+      "serving_size": "1 cup chopped (100 g)",
+      "macronutrients": {
+        "protein": "2",
+        "fat": "0.3",
+        "carbohydrates": "5"
+      }
+    },
+    {
+      "name": "Carrots",
+      "preference": "veg",
+      "image": "https://www.jessicagavin.com/wp-content/uploads/2019/02/carrots-7-1200.jpg",
+      "calories": 52,
+      "serving_size": "1 cup chopped (128 g)",
+      "macronutrients": {
+        "protein": "1",
+        "fat": "0.3",
+        "carbohydrates": "12"
+      }
+    },
+    {
+      "name": "Bell Peppers",
+      "preference": "veg",
+      "image": "https://cdn.britannica.com/12/147312-050-BEC6A59E/Bell-peppers.jpg",
+      "calories": 31,
+      "serving_size": "1 medium pepper (119 g)",
+      "macronutrients": {
+        "protein": "1",
+        "fat": "0.4",
+        "carbohydrates": "7"
+      }
+    },
+    {
+      "name": "Tomatoes",
+      "preference": "veg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+      "calories": 22,
+      "serving_size": "1 medium tomato (123 g)",
+      "macronutrients": {
+        "protein": "1",
+        "fat": "0.2",
+        "carbohydrates": "5"
+      }
+    },
+    {
+      "name": "Cucumbers",
+      "preference": "veg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrCuq8Zwtau1ldm_Umd-XmvxdAOMKsnR8v8g&usqp=CAU",
+      "calories": 16,
+      "serving_size": "1 medium cucumber (301 g)",
+      "macronutrients": {
+        "protein": "1",
+        "fat": "0.2",
+        "carbohydrates": "4"
+      }
+    },
+    {
+      "name": "Avocado",
+      "preference": "veg",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/07/Avocado-sliced-in-half-ca9d808.jpg?quality=90&resize=440,400",
+      "calories": 234,
+      "serving_size": "1 avocado (136 g)",
+      "macronutrients": {
+        "protein": "3",
+        "fat": "21",
+        "carbohydrates": "12"
+      }
+    },
+    {
+      "name": "Lentils",
+      "preference": "veg",
+      "image": "https://www.foodandwine.com/thmb/kUXHMdw0J9x31-wyf-P4zs17t5Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-to-do-with-lentils-FT-BLOG0420-4085e7e5a4c54906a07dee01ad220576.jpg",
+      "calories": 230,
+      "serving_size": "1 cup cooked (198 g)",
+      "macronutrients": {
+        "protein": "18",
+        "fat": "0.8",
+        "carbohydrates": "40"
+      }
+    },
+    {
+      "name": "Chickpeas",
+      "preference": "veg",
+      "image": "https://www.liveeatlearn.com/wp-content/uploads/2015/09/chickpea-photo-1.jpg",
+      "calories": 269,
+      "serving_size": "1 cup cooked (164 g)",
+      "macronutrients": {
+        "protein": "14.5",
+        "fat": "4.2",
+        "carbohydrates": "45"
+      }
+    },
+    {
+      "name": "Peanut Butter",
+      "preference": "veg",
+      "image": "https://www.culinaryhill.com/wp-content/uploads/2019/04/Homemade-Peanut-Butter-HRSquare-Culinary-Hill10a.jpg",
+      "calories": 188,
+      "serving_size": "2 tbsp (32 g)",
+      "macronutrients": {
+        "protein": "8",
+        "fat": "16",
+        "carbohydrates": "6"
+      }
+    },
+    {
+      "name": "Oats",
+      "preference": "veg",
+      "image": "https://www.wellplated.com/wp-content/uploads/2018/05/Steel-Cut-Oats-Recipe.jpg",
+      "calories": 150,
+      "serving_size": "1/2 cup dry (40 g)",
+      "macronutrients": {
+        "protein": "5",
+        "fat": "3",
+        "carbohydrates": "27"
+      }
+    },
+    {
+      "name": "Whole Wheat Bread",
+      "preference": "veg",
+      "image": "https://www.31daily.com/wp-content/uploads/2021/04/md-100-Whole-Wheat-Bread-11-1-of-1-scaled.jpg",
+      "calories": 128,
+      "serving_size": "1 slice (40 g)",
+      "macronutrients": {
+        "protein": "4",
+        "fat": "1.5",
+        "carbohydrates": "23"
+      }
+    },
+    {
+      "name": "Greek Yogurt",
+      "preference": "veg",
+      "image": "https://static.toiimg.com/photo/75220490.cms",
+      "calories": 130,
+      "serving_size": "1 container (150 g)",
+      "macronutrients": {
+        "protein": "23",
+        "fat": "0",
+        "carbohydrates": "9"
+      }
+    },
+    {
+      "name": "Milk",
+      "preference": "veg",
+      "image": "https://downshiftology.com/wp-content/uploads/2022/10/Almond-Milk-Recipe-22-8.jpg",
+      "calories": 103,
+      "serving_size": "1 cup (240 mL)",
+      "macronutrients": {
+        "protein": "8",
+        "fat": "2.4",
+        "carbohydrates": "12"
+      }
+    },
+    {
+      "name": "Cheese",
+      "preference": "veg",
+      "image": "https://shop.gerald.ph/content/images/thumbs/0004386_emmental_340.jpeg",
+      "calories": 113,
+      "serving_size": "1 oz (28 g)",
+      "macronutrients": {
+        "protein": "7",
+        "fat": "9",
+        "carbohydrates": "0.4"
+      }
+    },
+    {
+      "name": "Cottage Cheese",
+      "preference": "veg",
+      "image": "https://www.pakladies.com/wp-content/uploads/2009/05/paneer.jpg",
+      "calories": 104,
+      "serving_size": "1/2 cup (105 g)",
+      "macronutrients": {
+        "protein": "14",
+        "fat": "2",
+        "carbohydrates": "4"
+      }
+    }
+    ],
+      "nonveg": [
+        {
+          "name": "Eggs",
+          "image": "https://fitfoodiefinds.com/wp-content/uploads/2021/01/hard-boiled-eggs-3sq.jpg",
+          "preference": "nonveg",
+          "calories": 78,
+          "serving_size": "1 large egg (50 g)",
+          "macronutrients": {
+            "protein": "6",
+            "fat": "5",
+            "carbohydrates": "0.6"
+          }
+        },
+        {
+          "name": "Chicken Breast",
+          "preference": "nonveg",
+          "image": "https://c.ndtvimg.com/2020-04/hj70ve1g_chicken-breast_625x300_21_April_20.jpg",
+          "calories": 165,
+          "serving_size": "3 oz (85 g)",
+          "macronutrients": {
+            "protein": "31",
+            "fat": "3.6",
+            "carbohydrates": "0"
+          }
+        },
+        {
+          "name": "Salmon",
+          "preference": "nonveg",
+          "image": "https://www.allrecipes.com/thmb/092uk7yXvVgwb3Fd0OXD7zEBW0E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Fresh-Salmon-Fillets-by-FudioGetty-Images-2000-02c1384d705a42e5a7801923a51b4377.jpg",
+          "calories": 206,
+          "serving_size": "3 oz (85 g)",
+          "macronutrients": {
+            "protein": "22",
+            "fat": "12",
+            "carbohydrates": "0"
+          }
+        },
+        {
+          "name": "Tuna",
+          "preference": "nonveg",
+          "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Grilled-Tuna-750x750.jpg",
+          "calories": 116,
+          "serving_size": "3 oz (85 g)",
+          "macronutrients": {
+            "protein": "25",
+            "fat": "1",
+            "carbohydrates": "0"
+          }
+        },
+        {
+          "name": "Turkey Breast",
+          "preference": "nonveg",
+          "image": "https://foodieandwine.com/wp-content/uploads/2022/08/baste-for-turkey-recipe-500x500.jpg",
+          "calories": 111,
+          "serving_size": "3 oz (85 g)",
+          "macronutrients": {
+            "protein": "26",
+            "fat": "1",
+            "carbohydrates": "0"
+          }
+        },
+        {
+          "name": "Beef Steak",
+          "preference": "nonveg",
+          "image": "https://images-gmi-pmc.edge-generalmills.com/b57ee35f-bce2-4229-8bf5-19b97876a4cb.jpg",
+          "calories": 250,
+          "serving_size": "3 oz (85 g)",
+          "macronutrients": {
+            "protein": "22",
+            "fat": "18",
+            "carbohydrates": "0"
+          }
+        },
+        {
+          "name": "Beef",
+          "preference": "nonveg",
+          "image": "https://cdn.britannica.com/68/143268-050-917048EA/Beef-loin.jpg",
+          "calories": 250,
+          "serving_size": "4 oz (113 g)",
+          "macronutrients": {
+            "protein": "26",
+            "fat": "17",
+            "carbohydrates": "0"
+          }
+        }
+      ]
+    }
+  ]
+}
