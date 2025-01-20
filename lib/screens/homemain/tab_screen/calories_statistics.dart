@@ -389,8 +389,8 @@ class _CaloriesStatisticsState extends State<CaloriesStatistics> {
     final DateTime? picked = await showDatePicker(
       context: context,
       initialDate: isEnd == true ? _selectedStartDate : DateTime.now(),
-      firstDate: DateTime(2024),
-      lastDate: DateTime(2025),
+      firstDate: DateTime(2025),
+      lastDate: DateTime(2026),
     );
     if (picked != null) {
       setState(() {

@@ -60,28 +60,7 @@ class _StatisticScreenState extends State<StatisticScreen> {
     ),
   ];*/
 
-  late List<dynamic> ideasList = [
-    {
-      "_id": "66b22de677e9a725270e67b6",
-      "name": "sdf",
-      "category_id": "66b22dd677e9a725270e67b1",
-      "description": "sdf    ",
-      "ingredients": "sdf",
-      "totalCalories": 123,
-      "protein": 123,
-      "carb": 123,
-      "fat": 123,
-      "preparationTime": 123,
-      "createdAt": "2024-08-06T14:06:30.350Z",
-      "updatedAt": "2024-08-18T02:39:36.578Z",
-      "__v": 0,
-      "day_of_week": "Thursday",
-      "meal_type": "Lunch",
-      "recipe_pic": [
-        "http://diet.backend.marketmajesty.net/upload/1723386383097-other payment.png"
-      ]
-    }
-  ];
+  late List<dynamic> ideasList = [];
 
   int seperatedIndex = 0;
   Color bgcolor = whiteColor;

@@ -17,8 +17,8 @@ class Constant {
   static String barcodeLookupURL =
       "https://world.openfoodfacts.net/api/v3/product";
   static String barcodeLookupApiKey = "qkh6u7fnsyauj8dv6kh3ao4wl6ji80";
-  static String apiURL = "https://diet.backend.marketmajesty.net/api";
-  // static String apiURL = "https://bright-annually-drake.ngrok-free.app/api";
+  // static String apiURL = "https://diet.backend.marketmajesty.net/api";
+  static String apiURL = "https://bright-annually-drake.ngrok-free.app/api";
 
   static allDetails() {
     allDetailsList.clear();

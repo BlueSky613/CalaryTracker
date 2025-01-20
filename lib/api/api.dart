@@ -1,5 +1,4 @@
 import 'dart:convert';
-import 'dart:ffi';
 import 'package:flutter/material.dart';
 import 'package:ketodiet/model/diet_response.dart';
 import 'package:ketodiet/model/dietrecipes_response.dart';
