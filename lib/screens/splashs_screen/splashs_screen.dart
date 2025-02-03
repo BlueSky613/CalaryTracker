@@ -9,7 +9,7 @@ import 'package:ketodiet/api/api.dart';
 
 class SplashsScreen extends StatefulWidget {
   String? imgUrl;
-  SplashsScreen({this.imgUrl,Key? key}) : super(key: key);
+  SplashsScreen({this.imgUrl, Key? key}) : super(key: key);
 
   @override
   State<SplashsScreen> createState() => _SplashsScreenState();
