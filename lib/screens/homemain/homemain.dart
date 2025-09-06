@@ -81,7 +81,7 @@ class HomeMainState extends State<HomeMain> {
           items: <BottomNavigationBarItem>[
             BottomNavigationBarItem(
               icon: SizedBox(
-                  height: 24,
+                  height: 25,
                   width: 24,
                   child: SvgPicture.asset(
                     'assets/images/svg/home.svg',
