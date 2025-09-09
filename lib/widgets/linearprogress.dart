@@ -67,7 +67,7 @@ class _LinearProgressState extends State<LinearProgress> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   MyContainer(
-                    height: 10,
+                    height: 15,
                     width: 10,
                     color: widget.color,
                     borderRadius: BorderRadius.circular(30),
