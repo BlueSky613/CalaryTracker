@@ -45,7 +45,7 @@ class _SplashsScreenState extends State<SplashsScreen> {
                   image: NetworkImage(widget.imgUrl!), fit: BoxFit.cover)
               : const DecorationImage(
                   image: AssetImage('assets/images/splashback.png'),
-                  fit: BoxFit.cover),
+                  fit: BoxFit.contain),
           child: Center(
               child: MyRegularText(
             isHeading: false,
