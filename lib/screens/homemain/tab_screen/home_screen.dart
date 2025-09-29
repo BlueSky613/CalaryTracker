@@ -104,7 +104,7 @@ class _HomeScreenState extends State<HomeScreen> with CalCulation {
             DatePickerCustom(selectedTime: (DateTime time) {}),
             MySpacer.spacer30,
             Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 14.0),
+              padding: const EdgeInsets.symmetric(horizontal: 15.0),
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
