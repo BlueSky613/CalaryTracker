@@ -105,7 +105,7 @@ class _StatisticScreenState extends State<StatisticScreen> {
       }, () {}, primaryColor),
       body: SingleChildScrollView(
         child: Padding(
-          padding: const EdgeInsets.all(16.0),
+          padding: const EdgeInsets.all(18.0),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.start,
             crossAxisAlignment: CrossAxisAlignment.start,
