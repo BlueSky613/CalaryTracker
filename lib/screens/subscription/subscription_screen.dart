@@ -74,7 +74,7 @@ class _SubscriptionScreenState extends State<SubscriptionScreen> {
                           color: Colors.black,
                         ))),
                     const SizedBox(
-                      height: 16.0,
+                      height: 20.0,
                     ),
                     Text(widget.pageResponse?['slogan1'] ?? '',
                         textAlign: TextAlign.center,
