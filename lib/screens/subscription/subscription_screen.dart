@@ -62,7 +62,7 @@ class _SubscriptionScreenState extends State<SubscriptionScreen> {
             width: double.infinity,
             child: Padding(
                 padding: const EdgeInsets.symmetric(
-                    vertical: 26.0, horizontal: 12.0),
+                    vertical: 25.0, horizontal: 12.0),
                 child: Column(
                   children: [
                     Text(widget.pageResponse?['title'] ?? '',
