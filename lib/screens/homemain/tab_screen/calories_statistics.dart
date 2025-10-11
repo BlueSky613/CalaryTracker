@@ -141,7 +141,7 @@ class _CaloriesStatisticsState extends State<CaloriesStatistics> {
       child: Column(
         children: [
           Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 12.0),
+            padding: const EdgeInsets.symmetric(horizontal: 15.0),
             child: Row(
               children: [
                 _previousWeekButton(),
