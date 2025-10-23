@@ -60,7 +60,7 @@ class MembershipsState extends State<Memberships> {
                                   ? const Color(0xFF002EAB)
                                   : const Color(0xFFD5D9E5)),
                           margin: const EdgeInsets.symmetric(
-                              horizontal: 8.0, vertical: 16.0),
+                              horizontal: 10.0, vertical: 16.0),
                           width: 160.0,
                           child: Center(
                             child: Container(
