@@ -93,7 +93,7 @@ class HomeMainState extends State<HomeMain> {
             ),
             BottomNavigationBarItem(
               icon: SizedBox(
-                  height: 22,
+                  height: 25,
                   width: 22,
                   child: SvgPicture.asset(
                     'assets/images/svg/recipie.svg',
