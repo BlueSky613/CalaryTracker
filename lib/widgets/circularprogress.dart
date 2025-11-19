@@ -23,7 +23,7 @@ class _CircularProgressState extends State<CircularProgress> {
     return widget.from == 0?
     CircularPercentIndicator( //circular progress indicator
       radius: widget.radius!, //radius for circle
-      lineWidth: 12.0, //width of circle line
+      lineWidth: 15.0, //width of circle line
       animation: true, //animate when it shows progress indicator first
       percent: widget.percentage ??0.0, //percentage value: 0.6 for 60% (60/100 = 0.6)
       backgroundColor: widget.lightColor!, //backround of progress bar
