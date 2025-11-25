@@ -32,7 +32,7 @@ class MyButton extends StatelessWidget{
           child: MyRegularText(
             isHeading: true,
             label: btntext.toString(),
-            fontSize: 16,
+            fontSize: 18,
             color: whiteColor,
             fontWeight: FontWeight.w500,
           ),
