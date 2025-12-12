@@ -163,7 +163,7 @@ class _SettingScreenState extends State<SettingScreen> {
                   },
                   child: MyContainer(
                     color: blueColor,
-                    borderRadius: BorderRadius.circular(16),
+                    borderRadius: BorderRadius.circular(20),
                     child: Padding(
                       padding: const EdgeInsets.symmetric(
                           horizontal: 18.0, vertical: 20),
