@@ -116,7 +116,7 @@ class _StatisticScreenState extends State<StatisticScreen> {
                 isHeading: true,
                 label: 'Recipes Ideas',
                 fontWeight: FontWeight.w600,
-                fontSize: 20,
+                fontSize: 22,
               ),
               MySpacer.mediumspacer,
               SizedBox(
