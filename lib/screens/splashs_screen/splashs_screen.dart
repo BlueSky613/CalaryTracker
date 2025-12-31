@@ -25,7 +25,7 @@ class _SplashsScreenState extends State<SplashsScreen> {
   }
 
   startTime() async {
-    var duration = const Duration(seconds: 5);
+    var duration = const Duration(seconds: 6);
     return Timer(duration, showAd);
   }
 
