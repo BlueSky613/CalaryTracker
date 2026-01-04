@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class MySpacer {
   static var spacer3 = const SizedBox(
-    height: 3,
+    height: 4,
   );
   static var minispacer = const SizedBox(
     height: 6,
