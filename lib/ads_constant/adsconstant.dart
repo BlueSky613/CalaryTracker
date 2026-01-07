@@ -10,7 +10,7 @@ class AdsConstant {
   InterstitialAd? _interstitialAd;
   Function? onAdDismissed;
   int _numInterstitialLoadAttempts = 0;
-  int maxFailedLoadAttempts = 3;
+  int maxFailedLoadAttempts = 4;
   bool _isShowingAd = false;
   AppOpenAd? _appOpenAd;
   late BannerAd bannerAd;
