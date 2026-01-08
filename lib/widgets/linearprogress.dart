@@ -27,7 +27,7 @@ class LinearProgress extends StatefulWidget {
 }
 
 class _LinearProgressState extends State<LinearProgress> {
-  double? _value = 50;
+  double? _value = 40;
 
 @override
   void initState() {
