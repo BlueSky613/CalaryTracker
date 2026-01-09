@@ -190,7 +190,7 @@ class Api {
     final response = await http.get(
       Uri.parse('${Constant.apiURL}/Recipes/ideas'),
     );
-    if (response.statusCode == 200) {
+    if (response.statusCode == 201) {
       print('RecipeIdeasResponse>>>>>>${response.body}');
       SessionManager manager = SessionManager();
       manager.setRecipeIdeasResponse(response.body);
