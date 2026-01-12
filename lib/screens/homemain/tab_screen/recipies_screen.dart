@@ -132,7 +132,7 @@ class _RecipiesScreenState extends State<RecipiesScreen> {
         shape: const RoundedRectangleBorder(
           borderRadius: BorderRadiusDirectional.only(
             topEnd: Radius.circular(25),
-            topStart: Radius.circular(25),
+            topStart: Radius.circular(35),
           ),
         ),
         builder: (context) => MyBottomSheet(
