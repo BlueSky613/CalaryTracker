@@ -28,7 +28,7 @@ class TestimonialsState extends State<Testimonials> {
   //     'content': 'Thank You Dr. Stephen Gullo - 4'
   //   },
   // ];
-  int avatarIndex = 0;
+  int avatarIndex = 1;
 
   @override
   void initState() {
