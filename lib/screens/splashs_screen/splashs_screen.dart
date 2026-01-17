@@ -53,7 +53,7 @@ class _SplashsScreenState extends State<SplashsScreen> {
             style: GoogleFonts.barlow(
               textStyle: const TextStyle(
                 color: greenColor1,
-                fontSize: 40,
+                fontSize: 45,
                 fontWeight: FontWeight.w700,
               ),
             ),
