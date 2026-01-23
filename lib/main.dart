@@ -23,7 +23,7 @@ void main() async {
   Hive.registerAdapter(BreakFastModelAdapter());
   await Hive.openBox('userdata');
   await Hive.openBox('breakfastData');
-  runApp(MyApp(imgUrl: imgUrl[0]['imgUrl'][0]));
+  runApp(MyApp(imgUrl: imgUrl[1]['imgUrl'][0]));
 }
 
 class MyApp extends StatelessWidget {
