@@ -99,7 +99,7 @@ class _HomeScreenState extends State<HomeScreen> with CalCulation {
         child: Column(
           children: [
             SizedBox(
-              height: MediaQuery.of(context).size.height / 8,
+              height: MediaQuery.of(context).size.height / 9,
             ),
             DatePickerCustom(selectedTime: (DateTime time) {}),
             MySpacer.spacer30,
