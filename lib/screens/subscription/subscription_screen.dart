@@ -129,7 +129,7 @@ class _SubscriptionScreenState extends State<SubscriptionScreen> {
                                 textAlign: TextAlign.center,
                                 style: GoogleFonts.abrilFatface(
                                     textStyle: const TextStyle(
-                                  fontSize: 24,
+                                  fontSize: 20,
                                   fontWeight: FontWeight.normal,
                                   color: Color(0xFF424141),
                                 ))),
