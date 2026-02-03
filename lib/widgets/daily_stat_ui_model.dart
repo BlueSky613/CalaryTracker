@@ -3,7 +3,7 @@ var defaultDailyStat = DailyStatUiModel(
   stat: '',
   isToday: false,
   isSelected: false,
-  dayPosition: 1,
+  dayPosition: 2,
 );
 
 class DailyStatUiModel {
