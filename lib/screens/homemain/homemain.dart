@@ -67,7 +67,7 @@ class HomeMainState extends State<HomeMain> {
     return Scaffold(
       floatingActionButton: Padding(
         padding: EdgeInsets.only(
-          bottom: MediaQuery.of(context).size.height / 18,
+          bottom: MediaQuery.of(context).size.height / 20,
         ),
         child: Container(child: interstitialAd.getBannerAdWidget()),
       ),
