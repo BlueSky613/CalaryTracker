@@ -5,7 +5,7 @@ class MySpacer {
     height: 4,
   );
   static var minispacer = const SizedBox(
-    height: 6,
+    height: 8,
   );
   static var spacer = const SizedBox(
     height: 20,
