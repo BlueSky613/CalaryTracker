@@ -34,7 +34,7 @@ class ChoiceChipsScreenState extends State<ChoiceChipsScreen> {
   @override
   Widget build(BuildContext context) {
     return Wrap(
-      spacing: 8.0,
+      spacing: 18.0,
       runSpacing: 3.0,
       children: _buildChoiceList(),
     );
