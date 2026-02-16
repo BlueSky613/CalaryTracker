@@ -43,8 +43,8 @@ class RecipeIdeasScreen extends StatelessWidget {
         backgroundColor: Colors.white,
         shape: const RoundedRectangleBorder(
           borderRadius: BorderRadiusDirectional.only(
-            topEnd: Radius.circular(30),
-            topStart: Radius.circular(30),
+            topEnd: Radius.circular(40),
+            topStart: Radius.circular(40),
           ),
         ),
         builder: (context) => MyBottomSheet(
