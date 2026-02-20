@@ -195,7 +195,7 @@ class _CaloriesStatisticsState extends State<CaloriesStatistics> {
             isHeading: false,
             label: 'Calories Chart',
             color: greyColor,
-            fontSize: 14,
+            fontSize: 16,
             fontWeight: FontWeight.w500,
           ),
           MySpacer.mediumspacer,
