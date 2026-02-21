@@ -110,7 +110,7 @@ class _AddItemScreenState extends State<AddItemScreen> {
             padding: const EdgeInsets.symmetric(horizontal: 18.0),
             child: MyContainer(
               borderRadius: BorderRadius.circular(8),
-              height: 40,
+              height: 50,
               color: lightColor,
               child: TextField(
                 expands: false,
