@@ -40,7 +40,7 @@ class SubscriptionFooter extends StatelessWidget {
                         softWrap: true, // Allow text to wrap onto the next line
                         style: GoogleFonts.abrilFatface(
                             textStyle: const TextStyle(
-                          fontSize: 18,
+                          fontSize: 20,
                           fontWeight: FontWeight.normal,
                           color: Colors.white,
                         )),
