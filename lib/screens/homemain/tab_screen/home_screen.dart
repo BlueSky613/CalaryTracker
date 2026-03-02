@@ -115,7 +115,7 @@ class _HomeScreenState extends State<HomeScreen> with CalCulation {
                         children: [
                           CircularProgress(
                             from: 0,
-                            radius: 82.0,
+                            radius: 85.0,
                             color: redColor,
                             lightColor: lightredColor,
                             percentage: (getProgressData(item: 'Calories')) <
