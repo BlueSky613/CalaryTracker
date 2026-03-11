@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Calories Tracker',
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: true,
       home: SplashsScreen(imgUrl: imgUrl),
     );
   }
