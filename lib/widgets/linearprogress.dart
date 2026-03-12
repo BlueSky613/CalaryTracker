@@ -74,7 +74,7 @@ class _LinearProgressState extends State<LinearProgress> {
                   ),
                   MySpacer.width6,
                   Padding(
-                    padding: const EdgeInsets.only(bottom: 4.0),
+                    padding: const EdgeInsets.only(bottom: 5.0),
                     child: MyRegularText(
                       isHeading: false,
                       label: widget.text.toString(),
