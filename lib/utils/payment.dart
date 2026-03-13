@@ -80,7 +80,7 @@ displayPaymentSheet(BuildContext context, Map<String, dynamic> membership,
       //               Icon(
       //                 Icons.check_circle,
       //                 color: Colors.green,
-      //                 size: 100.0,
+      //                 size: 110.0,
       //               ),
       //               SizedBox(height: 10.0),
       //               Text("Payment Successful!"),
