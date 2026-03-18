@@ -21,7 +21,7 @@ class Memberships extends StatefulWidget {
 }
 
 class MembershipsState extends State<Memberships> {
-  int membershipIndex = 0;
+  int membershipIndex = 1;
 
   @override
   void initState() {
