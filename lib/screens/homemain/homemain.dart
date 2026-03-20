@@ -33,7 +33,7 @@ class HomeMainState extends State<HomeMain> {
         counter++;
         print('counter is $counter');
       } else {
-        _selectedIndex = 2;
+        _selectedIndex = 3;
       }
     });
   }
