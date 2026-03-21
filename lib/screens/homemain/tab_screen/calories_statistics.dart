@@ -151,7 +151,7 @@ class _CaloriesStatisticsState extends State<CaloriesStatistics> {
             ),
           ),
           Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 12.0),
+            padding: const EdgeInsets.symmetric(horizontal: 15.0),
             child: Column(
               children: [
                 Row(
