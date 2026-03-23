@@ -125,7 +125,7 @@ class _AddItemScreenState extends State<AddItemScreen> {
                 decoration: const InputDecoration(
                   floatingLabelBehavior: FloatingLabelBehavior.never,
                   contentPadding:
-                      EdgeInsets.symmetric(horizontal: 10.0, vertical: 12),
+                      EdgeInsets.symmetric(horizontal: 11.0, vertical: 12),
                   hintText: 'Search',
                   prefixIcon: Icon(
                     Icons.search,
