@@ -185,7 +185,7 @@ class _SettingScreenState extends State<SettingScreen> {
                                 isHeading: false,
                                 label: '-Unlimted Stations',
                                 color: greyColor1,
-                                fontSize: 15,
+                                fontSize: 18,
                                 fontWeight: FontWeight.w400,
                               ),
                               MyRegularText(
