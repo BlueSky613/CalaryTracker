@@ -114,7 +114,7 @@ class _HomeScreenState extends State<HomeScreen> with CalCulation {
                         alignment: Alignment.center,
                         children: [
                           CircularProgress(
-                            from: 0,
+                            from: 1,
                             radius: 85.0,
                             color: redColor,
                             lightColor: lightredColor,
