@@ -25,7 +25,7 @@ class RecipeIdeasScreen extends StatelessWidget {
     SharedPreferences prefs = await SharedPreferences.getInstance();
     double calGoal = prefs.getInt('caloriesGoal')?.toDouble() ?? 0.0;
 
-    if (userBox.isEmpty && calGoal == 0) {
+    if (userBox.isEmpty && calGoal == 1) {
       showToast(
         backgroundColor: blueColor,
         'Please choose your Daily Goal first from setting.!!',
