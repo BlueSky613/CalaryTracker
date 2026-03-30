@@ -62,7 +62,7 @@ class _StatisticScreenState extends State<StatisticScreen> {
 
   late List<dynamic> ideasList = [];
 
-  int seperatedIndex = 0;
+  int seperatedIndex = 1;
   Color bgcolor = whiteColor;
   Color txtcolor = textColor;
 
