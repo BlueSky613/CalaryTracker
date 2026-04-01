@@ -73,7 +73,7 @@ class TestimonialsState extends State<Testimonials> {
                 //         )),
                 //   ),
                 Container(
-                  height: 70, // Adjust height based on your UI design
+                  height: 80, // Adjust height based on your UI design
                   child: ListView.builder(
                     scrollDirection: Axis.horizontal,
                     itemCount: widget.testimonials?.length,
