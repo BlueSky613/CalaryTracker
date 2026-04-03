@@ -13,7 +13,7 @@ class MyAppBar{
           isHeading: true,
           label: title,
             color: textColor,
-            fontSize: 24,
+            fontSize: 26,
             align: TextAlign.start,
           fontWeight: FontWeight.w600,
         ),
