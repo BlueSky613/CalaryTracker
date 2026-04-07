@@ -75,7 +75,7 @@ class _RecipiesScreenState extends State<RecipiesScreen> {
       for (int i = 0;
           i < getRecipesList.recipes![0].Veg!.Breakfast!.length;
           i++) {
-        int dayOfWeek = weekday - 2;
+        int dayOfWeek = weekday - 3;
         if (veg == true) {
           print(
               'day>>>>${getRecipesList.recipes![0].Veg!.Breakfast![0].Title} >>>>>$day');
