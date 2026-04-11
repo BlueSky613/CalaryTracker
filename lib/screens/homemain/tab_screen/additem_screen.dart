@@ -98,7 +98,7 @@ class _AddItemScreenState extends State<AddItemScreen> {
       body: Column(
         children: [
           Padding(
-            padding: const EdgeInsets.all(18.0),
+            padding: const EdgeInsets.all(20.0),
             child: MyButton(
               onTap: () {
                 _showBarcodeScanner();
